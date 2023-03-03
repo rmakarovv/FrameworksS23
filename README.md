@@ -1,4 +1,8 @@
-Screenshots:
+Roman Makarov
+
+ID: 5999222016
+
+Solution for Assignment 3 part 1 on Framework-based Programming
 
 Part 1.
 

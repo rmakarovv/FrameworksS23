@@ -17,3 +17,8 @@ The view of the main page of the solution.
 3. Implementation of the Commanding. The following page allows to imput phone number.
 
 <img width="960" alt="Commanding" src="https://user-images.githubusercontent.com/82258730/223935900-44a4caef-ff06-4e4e-a6bf-b668583c5c24.png">
+
+
+4. The main page of the solution.
+
+<img width="960" alt="mainPage" src="https://user-images.githubusercontent.com/82258730/223936731-6325bf04-cd96-4749-841b-ddea767c404d.png">
